@@ -1,0 +1,11 @@
+{
+  "name": "simple-node-fn",
+  "version": "0.0.1",
+  "description": "Example function.",
+  "main": "func.js",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@fnproject/fdk": ">=0.0.19"
+  }
+}
